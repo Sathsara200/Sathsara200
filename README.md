@@ -51,7 +51,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/tharidusat38689" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharidusat38689" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/tharidu sathsara" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="tharidusathsara" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/tharidusathsara/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="tharidusathsara" height="50" width="50" /></a>
 <a href="https://web.facebook.com/profile.php?id=61553134206093" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://instagram.com/tharidu244" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
