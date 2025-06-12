@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning **Java Script**
 
-- 🧑‍🎓 I’m an Undergraduate at **Esoft Metro Campus**
+- 🧑‍🎓 I’m an Undergraduate at **Esoft UNI**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Java Script**
 
 - 📫 How to reach me **tharidusathsara200@gmail.com**
   
