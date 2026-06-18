@@ -9,7 +9,7 @@
   
 - 🌱 I’m currently learning **Java Script**
 
-- 🧑‍🎓 I’m an Undergraduate at **Esoft UNI**
+- 🧑‍🎓 I’m an Undergraduate at **Kingston University**
 
 - 💬 Ask me about **Java Script**
 
